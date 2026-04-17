@@ -1,3 +1,6 @@
 # this is a web project, but can't find a suitable one in the list of available templates
 # , so just manually adding what needs to be ignored upon check-ins
 node_modules
+.DS_Store
+.tmp
+npm-debug.log
